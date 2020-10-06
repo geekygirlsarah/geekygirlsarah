@@ -1,3 +1,12 @@
+<p align="center">
+	<a href="https://github.com/geekygirlsarah"><img src="https://img.shields.io/github/followers/geekygirlsarah.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/geekygirlsarah"><img src="https://img.shields.io/twitter/follow/geekygirlsarah?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.twitch.tv/geekygirlsarah"><img src="https://img.shields.io/twitch/status/geekygirlsarah" alt="Twitch"></a>
+	<a href="https://www.linkedin.com/in/sarahwithee"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+
+
 ### Hi there 👋
 
 <!--
