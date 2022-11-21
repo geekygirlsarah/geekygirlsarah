@@ -18,7 +18,7 @@ Conference talk slides, notes, videos, etc. are there as well as [my website](ht
 
 My work at **18F** is available over at [their repo](https://github.com/18f).
 
-This is my <a rel="me" href="https://mastodon.social/@geekygirlsarah">Mastodon</a> proof tied to GitHub.
+This is my <a rel="me nofollow" href="https://mastodon.social/@geekygirlsarah">Mastodon</a> proof tied to GitHub.
 
 <!--
 **geekygirlsarah/geekygirlsarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
